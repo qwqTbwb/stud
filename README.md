@@ -1,2 +1,2 @@
-# stud
-测试用的
+# study
+测试用的study文件
